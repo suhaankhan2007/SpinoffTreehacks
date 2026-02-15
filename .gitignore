@@ -72,3 +72,9 @@ bun.lockb
 bun.lock
 
 .claude/
+
+# Python API
+api/venv/
+api/__pycache__/
+*.pyc
+*.pyo
